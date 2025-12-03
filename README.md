@@ -115,7 +115,3 @@ Bu scriptin çalışması için aşağıdaki kaynakların kurulu olması gerekir
     * **[G]** basarak temizleyin (Üzerinizde `Temizlik Bezi` olmalı).
 5.  Toplanan delilleri Laboratuvara götürün, target ile menüyü açın ve analiz edin.
 6.  Eski raporlara **"Arşiv Kayıtları"** menüsünden ulaşabilirsiniz.
-
-## 📜 Lisans
-
-Bu proje açık kaynaklıdır. İstediğiniz gibi düzenleyebilir ve kullanabilirsiniz.
